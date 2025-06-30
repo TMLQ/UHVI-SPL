@@ -1,11 +1,6 @@
-Template for the Read the Docs tutorial
+西湖大学物质平台超高真空互联表面实验室
 =======================================
 
-Introduction to the Ultra-high Vacuum Interconnected Surface Physics Lab
+Introduction to the Ultra-high Vacuum Interconnected Surface Physics Lab in Westlake University.
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
