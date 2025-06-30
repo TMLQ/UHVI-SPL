@@ -46,7 +46,7 @@
 -------------------------
 1. 圆形传样系统形如 UFO，我们之后依此称呼它。其腔体参数如下：
 
-    .. image:: /_static/UFO设备图.png
+    .. image:: /_static/ufo设备图.png
        :alt: UFO设备
        :width: 400px
        :align: center
