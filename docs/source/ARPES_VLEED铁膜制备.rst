@@ -6,7 +6,7 @@ VLEED 铁膜制备
 ------------------------------------
 具体操作请参考《Ferrum Spin-Decector Technical Reference Manual》p26-29。此处仅将步骤简要列出，并补充一些注意事项。
 
-.. image:: /_static/VLEED_Fe.png
+.. image:: /_static/Vleed_Fe.png
    :alt: 铁膜制备过程
    :width: 500px
    :align: center

@@ -7,7 +7,7 @@
 
 #. UFO 软件是否处于正常状态, 是否校零。如果出现任何报错, 通常将 UFO 伸缩臂缩底校零后可恢复。UFO 的角度和长度都是通过校零来得到的。
 
-   .. image:: /_static/UFO1.png
+   .. image:: /_static/UFO1.PNG
       :alt: UFO软件示意图
       :width: 500px
       :align: center
@@ -32,7 +32,7 @@
 
 #. 检查样品架是否处于预定的传样位置
 
-   .. image:: /_static/XYZ.png
+   .. image:: /_static/XYZ.PNG
       :alt: XYZ控制器界面
       :width: 500px
       :align: center
@@ -77,7 +77,7 @@
 #. 待移动完全停止, 使用机械手将下螺丝固定, 然后将机械手完全退回。注意: 固定螺丝
 的顺序必须是先上后下, 以防样品掉落．松螺丝的顺序也是先上后下．
 
-   .. image:: /_static/螺丝.png
+   .. image:: /_static/螺丝.PNG
       :alt: 机械手和螺丝
       :width: 500px
       :align: center
