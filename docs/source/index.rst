@@ -37,6 +37,8 @@ Contributing and Documentation
 * :doc:`直线段_LL升温`
 * :doc:`直线段_常见问题和解决`
 * :doc:`直线段_维护记录`
+* :doc:`直线段_传样`
+* :doc:`直线段_手套箱使用`
 
 
 
@@ -52,21 +54,24 @@ Contributing and Documentation
    直线段_LL升温
    直线段_常见问题和解决
    直线段_维护记录
+   直线段_传样
+   直线段_手套箱使用
 
 **JT-ARPES**
 
 * :doc:`ARPES_about arpes system`
-* :doc:`ARPES_slit dimensions`
+* :doc:`ARPES_分析器`
 * :doc:`ARPES_紫外气体灯`
 * :doc:`ARPES_激光`
 * :doc:`ARPES_样品台和冷头`
-* :doc:`ARPES_如何对其小光斑`
 * :doc:`ARPES_传样`
 * :doc:`ARPES_蒸金`
 * :doc:`ARPES_使用SES软件测量`
-* :doc:`ARPES_VLEED使用`
+* :doc:`ARPES_VLEED铁膜制备`
+* :doc:`ARPES_VLEED参数`
 * :doc:`ARPES_EFM3使用`
 * :doc:`ARPES_数据处理`
+
 
 .. toctree::
    :maxdepth: 1
@@ -74,15 +79,15 @@ Contributing and Documentation
    :caption: JT-ARPES
 
    ARPES_about arpes system
-   ARPES_slit dimensions
+   ARPES_分析器
    ARPES_紫外气体灯
    ARPES_激光
    ARPES_样品台和冷头
-   ARPES_如何对其小光斑
    ARPES_传样
    ARPES_蒸金
    ARPES_使用SES软件测量
-   ARPES_VLEED使用
+   ARPES_VLEED铁膜制备
+   ARPES_VLEED参数
    ARPES_EFM3使用
    ARPES_数据处理
 
